@@ -59,7 +59,8 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --buildDrafts \          
+            --buildDrafts \
+            --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
