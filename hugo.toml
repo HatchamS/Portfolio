@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://hatchams.github.io/Portfolio/'
 languageCode = 'fr'
 title = 'Portfolio Murati Sylvain'
 theme = "hugo-theme-nix"
