@@ -1,0 +1,12 @@
+<ul id="post-list">
+	{{ range .Paginator.Pages }}
+	<li>
+		<div class="post-list-item">
+			<div class="post-header">
+				<h4 class="post-link title-in-list" onclick="fillArticleSection({{ .Permalink }})"> {{ .Title }}</h4>
+				
+			</div>
+		</div>
+	</li>
+	{{ end }}
+</ul>

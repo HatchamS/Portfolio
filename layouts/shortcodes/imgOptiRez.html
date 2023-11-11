@@ -1,0 +1,8 @@
+{{$NameFile := .Get 0 }}
+{{$Dimension := .Get 1}}
+{{ $asset := resources.Get $NameFile }}
+
+{{ $img := $asset.Fit $Dimension }}
+
+<img alt="{{ .Get 2 }}" src="{{ $img.RelPermalink }}" />
+

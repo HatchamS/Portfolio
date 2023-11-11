@@ -1,0 +1,27 @@
+baseURL = 'https://example.org/'
+languageCode = 'fr'
+title = 'Portfolio Murati Sylvain'
+theme = "hugo-theme-nix"
+
+[params]
+  Name = "Sylvain Murati"
+  HeaderUsername = "sylvain"
+  HeaderHostname = "murati"
+  About = "Bonjour, je suis un étudiant passionné d'informatique et de mathématiques. Sur ce site vous pouvez trouver mes réalisations, ainsi que mes diplomes/formations que j'ai pu suivre."
+  Email = "sylvain.murati@gmail.com"
+  GithubID = "HatchamS"
+  ProfilePicture = "https://avatars.githubusercontent.com/u/88887098?s=400&u=4248786e858326ad34f166bd16f5d73e875955eb&v=4"
+
+[menu]
+  [[menu.header]]
+    identifier = "formation"
+    name = "formation"
+    weight = 0
+    url = "/formation"
+   [[menu.header]]
+    identifier = "projet"
+    name = "projet"
+    weight = 0
+    url = "/projet"
+
+  
