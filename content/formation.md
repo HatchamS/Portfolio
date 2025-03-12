@@ -30,9 +30,9 @@ Je me suis former à la programation sur le site {{< externLink "https://www.fra
         *  {{< externLink "https://uel.unisciel.fr/uel/co/contenu.html" "Les cours du projet Université en ligne" >}}
 
 * **Informatique général** 
-En dépit d'une formation particulièrement professionnalisante et pratique, j'ai toujours été attiré par les concepts théoriques sous-jacents. C'est pourquoi j'ai suivi en autonomie les UE de L1 et L2, du programme proposé par l'Université Lyon 1
+    * En dépit d'une formation particulièrement professionnalisante et pratique, j'ai toujours été attiré par les concepts théoriques sous-jacents. C'est pourquoi j'ai suivi en autonomie les UE de L1 et L2, du programme proposé par l'Université Lyon 1
 
-{{< externLink "http://licence-info.univ-lyon1.fr/#UEs" "Les cours de Liecence de l'Université Lyon 1" >}} 
+    * {{< externLink "http://licence-info.univ-lyon1.fr/#UEs" "Les cours de Licence de l'Université Lyon 1" >}} 
 
 
 
