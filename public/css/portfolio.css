@@ -1,0 +1,56 @@
+tbody tr:nth-child(odd) {
+    background-color: #fbfbfb;
+  }
+  
+tbody tr:nth-child(even) {
+background-color: #d6d4d9;
+}
+
+th,td{
+  padding: 6px 13px;
+  border: 1px solid #000000; 
+}
+
+table {
+background-color: #cccbcb;
+margin-bottom: 26px;
+}
+
+.post-content li {
+  margin: 10px;
+}
+
+.title-in-list{
+  margin-right: 5px;
+}
+.title-in-list:hover{
+  color: aqua;
+  cursor: pointer;
+  
+}
+pre{
+  border-style:solid;
+	border-width: 0px 0px 0px 3px;
+	border-color: #292929;
+  background-color: #f4f3f3;
+}
+
+
+#nav-article{
+  display: flex;
+  margin: 0;
+}
+
+.active-article{
+  margin-left: 15px;
+}
+
+#article-container footer, #article-container .post-comments{
+  display: none;
+}
+
+@media screen and (max-width: 480px) {
+  #nav-article{
+    flex-direction: column;
+  }
+}

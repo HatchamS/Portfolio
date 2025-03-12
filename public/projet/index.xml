@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio Murati Sylvain</title>
+    <link>https://hatchams.github.io/Portfolio/projet/</link>
+    <description>Recent content on Portfolio Murati Sylvain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 14 Oct 2023 10:56:54 +0200</lastBuildDate><atom:link href="https://hatchams.github.io/Portfolio/projet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atelier BTS Part Un</title>
+      <link>https://hatchams.github.io/Portfolio/projet/atelier-bts-part-un/</link>
+      <pubDate>Wed, 12 Mar 2025 09:44:34 +0100</pubDate>
+      
+      <guid>https://hatchams.github.io/Portfolio/projet/atelier-bts-part-un/</guid>
+      <description>Contexte Dans le cadre de la formation BTS SIO, il est nécessaire de réaliser 2 productions professionnelles notables. Le fichier ci-dessous rend compte de la première partie d&amp;rsquo;un vaste atelier consacré à une entreprise fictive dont les besoins ont permis de mettre en pratique les compétences officielles du programme.
+Télécharger le dossier complet de l&amp;#39;activité </description>
+    </item>
+    
+    <item>
+      <title>Projet portfolio avec Hugo</title>
+      <link>https://hatchams.github.io/Portfolio/projet/portfolio-hugo/</link>
+      <pubDate>Sat, 14 Oct 2023 10:56:54 +0200</pubDate>
+      
+      <guid>https://hatchams.github.io/Portfolio/projet/portfolio-hugo/</guid>
+      <description>Dans le cadre de mon BTS SIO, j&amp;rsquo;ai réalisé ce portfolio. Dans ce post j&amp;rsquo;explique les différentes étapes de la conception au déploiement final.
+Conception Tout d&amp;rsquo;abord, il était important de bien cerner mes besoins afin de faire les meilleurs choix technologiques. J&amp;rsquo;ai effectué le choix d&amp;rsquo;un générateur de site statique. En effet j&amp;rsquo;ai une utilisation de type blog et je n&amp;rsquo;ai pas besoin d&amp;rsquo;interaction avec les visiteurs. De plus un outil d&amp;rsquo;administration lourd pour rajouter des articles, me parait toujours aujourd&amp;rsquo;hui inutile puisque je suis le seul à maintenir le portfolio.</description>
+    </item>
+    
+  </channel>
+</rss>
